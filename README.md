@@ -15,11 +15,13 @@
 </p>
 <br/>
 
+#
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/giovanna-castro-9a97802b5/))
 [![Instagram Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/giihcastrodev?t=-outHal3wPKqXFlc2rBGag&s=09) 
 <br/>
 <br/>
-<p align= "right">
+<p align= "center">
 <img src="./arquivos/gifme.gif" alt="megif" width=300 />
 </p>
 
