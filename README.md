@@ -5,8 +5,8 @@ Olá, meu nome é Giovanna.🥰
 
 <p align="center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=laizabsobral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=laizabsobral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height=150>
 </p>
 <br />
 <br />
