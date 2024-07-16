@@ -5,12 +5,13 @@ Olá, meu nome é Giovanna.🥰
 
 <p align="center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" width = 600>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=laizabsobral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height=150>
+  <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" height= 180>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=laizabsobral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height=180>
 </p>
 <br />
 <br />
 
+<img src = "https://discord.com/channels/1262573159887011880/1262573159887011884/1262573190236864572">
 ###
 
 
