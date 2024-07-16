@@ -11,8 +11,7 @@ Olá, meu nome é Giovanna.🥰
 <br />
 <br />
 
-<img src = "https://www.canva.com/design/DAGLEMMAZ4I/11av3JvGQ4eK6o_Zgv2NuQ/view?utm_content=DAGLEMMAZ4I&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-###
+<img src = "https://www.canva.com/design/DAGLEMMAZ4I/11av3JvGQ4eK6o_Zgv2NuQ/view?utm_content=DAGLEMMAZ4I&utm_campaign=designshare&utm_medium=link&utm_source=editor" height=180>
 
 
 ### Encontre o Conecta Elas também:
