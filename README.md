@@ -1,5 +1,6 @@
 
-# Oi! Eu sou a Giih! :)
+
+# Oi! Eu sou a Giih!
 
 <p align="center">
   
@@ -9,8 +10,9 @@
 <br />
 <br />
 
-<img src = "https://www.canva.com/design/DAGLEMMAZ4I/11av3JvGQ4eK6o_Zgv2NuQ/view?utm_content=DAGLEMMAZ4I&utm_campaign=designshare&utm_medium=link&utm_source=editor" height=180>
-
+<p align= "center">
+<img src="./arquivos/gifme.gif" alt="megif" width=300 />
+</p>
 
 ### Entre em contato comigo:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/giovanna-castro-9a97802b5/))
