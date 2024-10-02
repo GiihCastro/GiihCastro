@@ -1,10 +1,10 @@
 <img src="./arquivos/background.png" alt="megif" width=100% />
 
-# Oi! Eu sou a Giih! 💻✨
-- Sou uma engenheira de computação em ascensão
-- Apaixonada por desafios e inovação
-- Estudando para dominar o inglês
-- Determinada a tornar-me uma profissional versátil
+# Hello, World! I'm Giih! 💻✨
+- I'm a student of computer engineering
+- Passionate about challenges and innovation
+- Currently studying to improve my English
+- Determined to become a versatile professional
 <br/>
 <br/>
 
