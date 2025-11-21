@@ -1,10 +1,9 @@
 <img src="./arquivos/background.png" alt="megif" width=100% />
 
 # Hello, World! I'm Giih! 💻✨
-- I'm a student of computer engineering
-- Passionate about challenges and innovation
-- Currently studying to improve my English
-- Determined to become a versatile professional
+- Computer Engineering student, always curious and eager to learn  
+- Passionate about challenges, innovation, and building meaningful solutions   
+- Determined to grow into a versatile and high-impact professional  
 <br/>
 <br/>
 
@@ -14,6 +13,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="sass" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div><br>
 
