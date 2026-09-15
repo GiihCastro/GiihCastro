@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="SEU_LINK_DO_BEHANCE">
+  <a href="https://www.behance.net/giovanndecast5">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
 
