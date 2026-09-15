@@ -1,8 +1,6 @@
-<img src="./arquivos/background.png" alt="megif" width=100% />
-
 # Hello, World! I'm Giih! 💻✨
-- Computer Engineering student, always curious and eager to learn  
-- Passionate about challenges, innovation, and building meaningful solutions   
+- Computer Engineering undergraduate
+- Passionate about challenges, innovation, and building solutions   
 - Determined to grow into a versatile and high-impact professional  
 <br/>
 <br/>
