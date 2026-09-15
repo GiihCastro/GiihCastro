@@ -1,7 +1,8 @@
 # Hello, World! I'm Giih! 💻✨
 - Computer Engineering undergraduate
-- Passionate about challenges, innovation, and building solutions   
-- Determined to grow into a versatile and high-impact professional  
+- Junior Learner at Apple Developer Academy
+- Interested in UI/UX, mobile development, and creative technology
+- Always experimenting, designing, and learning something new
 <br/>
 <br/>
 
