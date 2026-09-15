@@ -21,11 +21,22 @@
 
 #
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-castro-9a97802b5/)
+<div align="center">
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giih_dev?igsh=OGptNTJqMHA0YXRx)
+  <a href="https://www.linkedin.com/in/giovanna-castro-9a97802b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/giovanndecast5)
+  <a href="https://www.instagram.com/giih_dev?igsh=OGptNTJqMHA0YXRx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="SEU_LINK_DO_BEHANCE">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+
+</div>
+
 <br/>
 <br/>
 <p align= "center">
